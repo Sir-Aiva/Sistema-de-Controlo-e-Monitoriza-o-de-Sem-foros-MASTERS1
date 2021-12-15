@@ -1,0 +1,6 @@
+https://create.arduino.cc/projecthub/FalcomDigital/2-way-intersection-with-pedestrian-walk-cycle-f33c8a
+
+https://www.electroschematics.com/arduino-traffic-light-system/
+
+https://create.arduino.cc/projecthub/muhammad-aqib/density-based-traffic-light-controller-using-arduino-8636ad?ref=similar&ref_id=117853&offset=0
+
